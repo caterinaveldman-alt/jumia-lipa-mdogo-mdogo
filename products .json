@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Samsung Galaxy A14",
+    "price": 18500,
+    "oldPrice": 20000,
+    "image": "https://images.unsplash.com/photo-1661164300551-7a7385472d65?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "name": "Tecno Spark 10",
+    "price": 12500,
+    "oldPrice": 14000,
+    "image": "https://images.unsplash.com/photo-1677376919258-3b8d48e9d33b?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "name": "Smart LED TV 32\"",
+    "price": 28000,
+    "oldPrice": 32000,
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "name": "HP Laptop Core i5",
+    "price": 65000,
+    "oldPrice": 72000,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "price": 3500,
+    "oldPrice": 4500,
+    "image": "https://images.unsplash.com/photo-1516707285636-b4f44b1e9b89?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "name": "Samsung Tablet",
+    "price": 22000,
+    "oldPrice": 25000,
+    "image": "https://images.unsplash.com/photo-1581291519195-ef11498d1cf2?auto=format&fit=crop&w=300&q=80"
+  }
+]
