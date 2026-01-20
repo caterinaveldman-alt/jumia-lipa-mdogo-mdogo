@@ -1,1 +1,1 @@
-# jumia-lipa-mdogo-mdogo
+# EasyPay_Shop
